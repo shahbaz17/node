@@ -1,0 +1,14 @@
+{
+  "name": "sampleapp",
+  "version": "1.0.0",
+  "description": "Sample app description",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md. Shahbaz Alam",
+  "dependencies": {
+    "express": "^4.13.4",
+    "gulp": "^3.9.1"
+  }
+}
